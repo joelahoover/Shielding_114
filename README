@@ -1,4 +1,4 @@
-Shielding: Episode 114
+Shielding: Incident 114
 ======================
 
 This is a small game written in C++ for the 2nd SFML game jam. Enjoy!
@@ -18,7 +18,7 @@ A makefile is included that will build the game on Linux. If you want to attempt
 Game Lure
 ---------
 
-The Diastolea is one of the central bases of the great Sorrel empire, and one of the few to use a time rift as a defense mechanism. But, alas!, a desruption has caused a weak point to form in the outer shell, and the enemy plans to use this to their advantage. Your objective is to defend Diastolea at all costs until enough energy is collected to stablize the outer shell. A minature artificial time rift has been deployed: time runs faster near its center and slower as you move away from it. Use it to your advantage! Also, your ship has been equipted with a powerful shield and two rapid-fire cannons. Good luck! Do not let Diastolea fall.
+The Diastolea is one of the core bases of the galactic Sorrel Empire, and one of the few to use a time rift as a defense mechanism. But, alas!, a desruption has caused a weak point to form in the outer shell, and the enemy plans to use this to their advantage. Your objective is to defend Diastolea at all costs until enough energy is collected to stablize the outer shell. A minature artificial time rift has been deployed: time runs faster near its center and slower as you move away from it. Use it to your advantage! Also, your ship has been equipted with a powerful shield and two rapid-fire cannons. Good luck! Do not let Diastolea fall.
 
 Controls
 --------
