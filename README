@@ -1,0 +1,30 @@
+Shielding: Episode 114
+======================
+
+This is a small game written in C++ for the 2nd SFML game jam. Enjoy!
+
+Download
+--------
+
+A pre-compiled binary and asset tarball for Linux is available at <https://gist.github.com/tomgalvin594/8779003/raw/619120179f20a4795973a4cfd0821ea9e91aa2da/shielding.tar.gz>.
+
+Note that the binary links to SFML dynamically, so you must have SFML installed in order to play the game.
+
+Building from Source
+--------------------
+
+A makefile is included that will build the game on Linux. If you want to attempt compiling it on Windows and/or Mac, good luck! ;)
+
+Game Lure
+---------
+
+The Diastolea is one of the central bases of the great Sorrel empire, and one of the few to use a time rift as a defense mechanism. But, alas!, a desruption has caused a weak point to form in the outer shell, and the enemy plans to use this to their advantage. Your objective is to defend Diastolea at all costs until enough energy is collected to stablize the outer shell. A minature artificial time rift has been deployed: time runs faster near its center and slower as you move away from it. Use it to your advantage! Also, your ship has been equipted with a powerful shield and two rapid-fire cannons. Good luck! Do not let Diastolea fall.
+
+Controls
+--------
+
+Use the mouse to point your ship in the direction you want to fire. Use the left mouse button to fire. Use the arrow keys or WSAD to move your ship. Your ship's health is shown on the status bar on the left, and the energy collected to stablize the outer shell is shown along the bottom.
+
+
+ - Thomas Galvin (tomgalvin594@gmail.com)
+
